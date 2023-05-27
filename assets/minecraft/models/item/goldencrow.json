@@ -1,6 +1,5 @@
 {
 	"credit": "Made by hand by koj using vanillatweek's texture",
-
 	"textures": {
 		"0": "item/goldencrown/goldencrown",
 		"particle": "item/goldencrown/goldencrown"
@@ -82,7 +81,7 @@
 	"display": {
 		"head": {
 			"translation": [0, -28.75, -2.25],
-			"scale": [2, 2, 2]
+			"scale": [1, 1, 1]
 		}
 	}
 }
