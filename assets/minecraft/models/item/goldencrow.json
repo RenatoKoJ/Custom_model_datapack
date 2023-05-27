@@ -1,0 +1,9 @@
+{
+	"credit": "Made by hand by koj",
+
+	"parent": "minecraft:item/generated",
+	"textures": {
+	  "layer0": "item/goldencrown/goldencrown",
+	  "layer1": "minecraft:trims/items/helmet_trim_iron"
+	}
+}
