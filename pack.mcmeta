@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 7,
-    "description": "Custom Model Totorial Pack by CraisinLord"
+    "pack_format": 13,
+    "description": [{"text":"Custom Model made for,"color":"gold"}, {"text":"\n\u00a76V7's Server"}]
   }
 }
