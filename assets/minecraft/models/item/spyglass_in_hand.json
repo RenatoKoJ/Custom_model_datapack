@@ -1,0 +1,6 @@
+{
+    "parent": "customhats:item/spyglass_in_hand",
+    "overrides": [
+        {"predicate":{"custom_model_data": 1},"model": "item/spyglass_in_hand1"}
+    ]
+}
