@@ -7,6 +7,7 @@ Custom Model made using files from:
 ● Vanilla Tweaks
 ● MukiTanuki
 ● TheFinn
+● Lona28
 
 this custom model was created for particular use, in the streamer Vecet's server ( https://www.twitch.tv/vecettv )
 

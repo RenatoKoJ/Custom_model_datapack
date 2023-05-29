@@ -15,6 +15,12 @@
     {"predicate": {"custom_model_data": 7}, "model": "item/sombrero"},
     {"predicate": {"custom_model_data": 8}, "model": "item/goathat"},
     {"predicate": {"custom_model_data": 9}, "model": "item/fishhat"},
-    {"predicate": {"custom_model_data": 10}, "model": "item/cypher"}
+    {"predicate": {"custom_model_data": 10}, "model": "item/cypher"},
+
+    {"predicate": {"custom_model_data": 101}, "model": "item/Custom_Hats_Lona28/hat1"},
+    {"predicate": {"custom_model_data": 102}, "model": "item/Custom_Hats_Lona28/hat2"},
+    {"predicate": {"custom_model_data": 103}, "model": "item/Custom_Hats_Lona28/hat3"},
+    {"predicate": {"custom_model_data": 104}, "model": "item/Custom_Hats_Lona28/hat4"},
+    {"predicate": {"custom_model_data": 105}, "model": "item/Custom_Hats_Lona28/hat5"}
     ]
 }
