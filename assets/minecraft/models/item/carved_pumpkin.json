@@ -10,6 +10,8 @@
     {"predicate": {"custom_model_data": 2}, "model": "item/creeper_costum"},
     {"predicate": {"custom_model_data": 3}, "model": "item/oak_tree_hat"},
     {"predicate": {"custom_model_data": 4}, "model": "item/creepercarvedpumpkin"},
-    {"predicate": {"custom_model_data": 5}, "model": "item/kaska"}
+    {"predicate": {"custom_model_data": 5}, "model": "item/kaska"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/muddy_hat"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/sombrero"}
     ]
 }
