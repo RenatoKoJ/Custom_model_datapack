@@ -12,6 +12,9 @@
     {"predicate": {"custom_model_data": 4}, "model": "item/creepercarvedpumpkin"},
     {"predicate": {"custom_model_data": 5}, "model": "item/kaska"},
     {"predicate": {"custom_model_data": 6}, "model": "item/muddy_hat"},
-    {"predicate": {"custom_model_data": 7}, "model": "item/sombrero"}
+    {"predicate": {"custom_model_data": 7}, "model": "item/sombrero"},
+    {"predicate": {"custom_model_data": 8}, "model": "item/goathat"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/fishhat"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/cypher"}
     ]
 }
