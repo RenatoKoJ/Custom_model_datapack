@@ -1,0 +1,8 @@
+{
+  "credit": "Made by koj using xxxxxxx textures",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "item/creeper-carved-pumpkin/carved_pumpkin.png",
+    "side": "minecraft:block/pumpkin_side"
+  }
+}
