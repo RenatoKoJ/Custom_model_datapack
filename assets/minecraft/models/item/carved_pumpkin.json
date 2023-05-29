@@ -21,6 +21,10 @@
     {"predicate": {"custom_model_data": 102}, "model": "item/Custom_Hats_Lona28/hat2"},
     {"predicate": {"custom_model_data": 103}, "model": "item/Custom_Hats_Lona28/hat3"},
     {"predicate": {"custom_model_data": 104}, "model": "item/Custom_Hats_Lona28/hat4"},
-    {"predicate": {"custom_model_data": 105}, "model": "item/Custom_Hats_Lona28/hat5"}
+    {"predicate": {"custom_model_data": 105}, "model": "item/Custom_Hats_Lona28/hat5"},
+
+    {"predicate": {"custom_model_data": 201}, "model": "item/onepiece/ace"},
+    {"predicate": {"custom_model_data": 202}, "model": "item/onepiece/luffy"},
+    {"predicate": {"custom_model_data": 203}, "model": "item/onepiece/sabo"}
     ]
 }

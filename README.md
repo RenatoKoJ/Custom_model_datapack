@@ -8,6 +8,7 @@ Custom Model made using files from:
 ● MukiTanuki
 ● TheFinn
 ● Lona28
+● ItsHydra
 
 this custom model was created for particular use, in the streamer Vecet's server ( https://www.twitch.tv/vecettv )
 
