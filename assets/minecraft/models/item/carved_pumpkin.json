@@ -25,6 +25,23 @@
 
     {"predicate": {"custom_model_data": 201}, "model": "item/onepiece/ace"},
     {"predicate": {"custom_model_data": 202}, "model": "item/onepiece/luffy"},
-    {"predicate": {"custom_model_data": 203}, "model": "item/onepiece/sabo"}
+    {"predicate": {"custom_model_data": 203}, "model": "item/onepiece/sabo"},
+
+    {"predicate": {"custom_model_data": 301}, "model": "item/witchhats/witch_hat_blue"},
+    {"predicate": {"custom_model_data": 302}, "model": "item/witchhats/witch_hat_candy_red"},
+    {"predicate": {"custom_model_data": 303}, "model": "item/witchhats/witch_hat_cyan"},
+    {"predicate": {"custom_model_data": 304}, "model": "item/witchhats/witch_hat_dark_blue"},
+    {"predicate": {"custom_model_data": 305}, "model": "item/witchhats/witch_hat_gray"},
+    {"predicate": {"custom_model_data": 306}, "model": "item/witchhats/witch_hat_green"},
+    {"predicate": {"custom_model_data": 307}, "model": "item/witchhats/witch_hat_lime"},
+    {"predicate": {"custom_model_data": 308}, "model": "item/witchhats/witch_hat_mint"},
+    {"predicate": {"custom_model_data": 309}, "model": "item/witchhats/witch_hat_orange"},
+    {"predicate": {"custom_model_data": 310}, "model": "item/witchhats/witch_hat_pink"},
+    {"predicate": {"custom_model_data": 311}, "model": "item/witchhats/witch_hat_purple"},
+    {"predicate": {"custom_model_data": 312}, "model": "item/witchhats/witch_hat_red"},
+    {"predicate": {"custom_model_data": 313}, "model": "item/witchhats/witch_hat_teal"},
+    {"predicate": {"custom_model_data": 314}, "model": "item/witchhats/witch_hat_violet"},
+    {"predicate": {"custom_model_data": 315}, "model": "item/witchhats/witch_hat_yellow"},
+    {"predicate": {"custom_model_data": 316}, "model": "item/witchhats/witch_hat"}
     ]
 }

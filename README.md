@@ -9,6 +9,7 @@ Custom Model made using files from:
 ● TheFinn
 ● Lona28
 ● ItsHydra
+● Deesaster_
 
 this custom model was created for particular use, in the streamer Vecet's server ( https://www.twitch.tv/vecettv )
 
